@@ -1,2 +1,2 @@
-# Dr.Mamadov.github.io
+# Dr.Mammadov.github.io
 Academic website for Dr. Huseyn Mammadov
